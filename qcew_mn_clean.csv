@@ -1,0 +1,32 @@
+area,area_type,industry,avg_employment,total_annual_wages,avg_weekly_wage,avg_annual_pay,employment_pct_change,wage_pct_change
+"Tuolumne County, California","County, Total Covered","10 Total, all industries",18221,1070023912,1129,58725,4.8,4.2
+"Sumner County, Kansas","County, Total Covered","10 Total, all industries",6248,273423897,842,43763,-1.1,1.9
+"Sumner County, Tennessee","County, Total Covered","10 Total, all industries",62665,3716275440,1140,59304,2.6,4.5
+Albert Lea,"MicroSA, Total Covered","10 Total, all industries",11963,635202046,1021,53099,1.5,4.6
+Alexandria,"MicroSA, Total Covered","10 Total, all industries",19527,1114261818,1097,57062,0.6,2.0
+Austin,"MicroSA, Total Covered","10 Total, all industries",16932,1033547384,1174,61042,1.2,5.2
+Bemidji,"MicroSA, Total Covered","10 Total, all industries",20746,1126496224,1044,54299,1.2,4.2
+Brainerd,"MicroSA, Total Covered","10 Total, all industries",41714,2115214384,975,50708,1.1,5.2
+Detroit Lakes,"MicroSA, Total Covered","10 Total, all industries",15120,805022602,1024,53242,0.0,0.0
+Duluth-WI,"MSA, Total Covered","10 Total, all industries",124813,7391054630,1139,59217,1.0,3.9
+Fairmont,"MicroSA, Total Covered","10 Total, all industries",8245,442789020,1033,53706,0.0,0.0
+"Fargo, ND-MN","MSA, Total Covered","10 Total, all industries",147735,9611186546,1251,65057,1.3,3.4
+Faribault-Northfield,"MicroSA, Total Covered","10 Total, all industries",26196,1587564619,1165,60604,2.5,7.5
+Fergus Falls,"MicroSA, Total Covered","10 Total, all industries",22910,1191639890,1000,52013,0.9,4.4
+"Grand Forks, ND-MN","MSA, Total Covered","10 Total, all industries",52740,3081752245,1124,58433,1.9,4.4
+Grand Rapids,"MicroSA, Total Covered","10 Total, all industries",16608,898043012,1040,54071,0.0,0.0
+Hutchinson,"MicroSA, Total Covered","10 Total, all industries",15697,894566041,1096,56991,-0.1,3.9
+"La Crosse-Onalaska, WI-MN","MSA, Total Covered","10 Total, all industries",83269,4712722198,1088,56596,12.6,2.1
+Mankato,"MSA, Total Covered","10 Total, all industries",55864,3172962381,1092,56798,1.1,3.7
+Marshall,"MicroSA, Total Covered","10 Total, all industries",13763,727483220,1017,52859,0.7,0.7
+Minneapolis-St. Paul-Bloomington-WI,"MSA, Total Covered","10 Total, all industries",1934597,152303078421,1514,78726,0.4,3.5
+New Ulm,"MicroSA, Total Covered","10 Total, all industries",13221,732984540,1066,55442,0.0,2.2
+Owatonna,"MicroSA, Total Covered","10 Total, all industries",18956,1173323069,1190,61897,0.3,5.5
+Red Wing,"MicroSA, Total Covered","10 Total, all industries",21366,1292904099,1164,60513,0.7,2.8
+Rochester,"MSA, Total Covered","10 Total, all industries",122674,9223219153,1446,75185,1.6,4.9
+St. Cloud,"MSA, Total Covered","10 Total, all industries",104636,6409683114,1178,61257,0.9,4.5
+"Sioux Falls, SD-MN","MSA, Total Covered","10 Total, all industries",175666,11331705781,1241,64507,4.5,3.4
+"Wahpeton, ND-MN","MicroSA, Total Covered","10 Total, all industries",9614,523932248,1048,54498,0.4,3.5
+Willmar,"MicroSA, Total Covered","10 Total, all industries",23173,1204538780,1000,51980,1.7,3.5
+Winona,"MicroSA, Total Covered","10 Total, all industries",24022,1269001179,1016,52828,0.5,3.3
+Worthington,"MicroSA, Total Covered","10 Total, all industries",9788,541784172,1065,55354,-3.5,0.9
