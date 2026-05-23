@@ -19,9 +19,10 @@
  * BLS QCEW 2024 — employment and wages by metro area
 
 ## Key Findings
-- Computer & Math leads MN with 97K workers at $102K median wage
-- Legal occupations have the widest wage inequality (4.4x gap)
-- Healthcare has 24,000+ unfilled skilled positions statewide
+- Office & Administrative Support is MN's largest occupation group with 340,000+ workers
+- Management leads in pay at $122K median, with Computer & Math close behind at $102K
+- Legal occupations have the widest wage inequality (4.4x gap between top and bottom earners)
+- Healthcare Practitioners alone have 13,000+ unfilled skilled positions statewide
 - Minneapolis-St. Paul leads MN regions at $78.7K average annual pay
 
 ## Dashboard Screenshots
