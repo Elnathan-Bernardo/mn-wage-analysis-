@@ -2,9 +2,9 @@
  * An end-to-end data analytics project using real Minnesota government data to answer four business questions about the labor market.
 
 ## Tools Used
- * Python — for data cleaning
- * SQL Server — database and analysis queries
- * Power BI — interactive dashboards (5 pages)
+ * Python - for data cleaning
+ * SQL Server - database and analysis queries
+ * Power BI - interactive dashboards (5 pages)
 
 ## Business Questions
 1. Which MN occupations employ the most workers and pay the highest wages?
@@ -14,9 +14,9 @@
 5. How do wages vary across MN metro regions?
 
 ## Data Sources
- * BLS OEWS May 2024 — occupation wages by state
- * MN DEED Job Vacancy Survey 2024 — open positions by occupation
- * BLS QCEW 2024 — employment and wages by metro area
+ * BLS OEWS May 2024 - occupation wages by state
+ * MN DEED Job Vacancy Survey 2024 - open positions by occupation
+ * BLS QCEW 2024 - employment and wages by metro area
 
 ## Key Findings
 - Office & Administrative Support is MN's largest occupation group with 340,000+ workers
@@ -27,16 +27,16 @@
 
 ## Dashboard Screenshots
 
-## Page 1 — Employment & Wage Overview
+## Page 1 - Employment & Wage Overview
  * [Page 1](page1.png)
 
-## Page 2 — Wage Gap Analysis
+## Page 2 - Wage Gap Analysis
  * [Page 2](page2.png)
 
-## Page 3 — Job Vacancy Gap
+## Page 3 - Job Vacancy Gap
  * [Page 3](page3.png)
 
-## Page 5 — Regional Map
+## Page 5 - Regional Map
  * [Page 5](page5.png)
 
 ## How to Run
